@@ -18,13 +18,13 @@ The goal is to build a trivia game and when the user wins they are rewarded with
 
 ## Screenshots
 
-[Pop Culture Flex main page](./assets/images/Screenshot%202024-06-14%20192827.png)
+![Pop Culture Flex main page](./assets/images/Screenshot%202024-06-14%20192827.png)
 
-[Pop Culture Flex settings menu](./assets/images/Screenshot%202024-06-14%20193926.png)
+![Pop Culture Flex settings menu](./assets/images/Screenshot%202024-06-14%20193926.png)
 
-[Pop Culture Flex mid quiz](./assets/images/Screenshot%202024-06-14%20192920.png)
+![Pop Culture Flex mid quiz](./assets/images/Screenshot%202024-06-14%20192920.png)
 
-[Pop Culture Flex Results page with joke](./assets/images/Screenshot%202024-06-14%20192948.png)
+![Pop Culture Flex Results page with joke](./assets/images/Screenshot%202024-06-14%20192948.png)
 
 
 
@@ -32,4 +32,4 @@ The goal is to build a trivia game and when the user wins they are rewarded with
 
 [Github](https://github.com/Cadcar01/Pop-Culture-Trivia-App)
 
-[deployed application](https://cadcar01.github.io/Pop-Culture-Trivia-App/)
+[deployed application](https://cadcar01.github.io/Pop-Culture-Flex/)
